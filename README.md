@@ -1,0 +1,2 @@
+# tomstone
+score to win
